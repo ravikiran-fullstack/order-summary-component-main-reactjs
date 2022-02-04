@@ -20,7 +20,7 @@ function App() {
               </div>
             </div>
             <div className='planDetailsChange'>
-              <a href='#'>Change</a>
+              <a href='/'>Change</a>
             </div>
           </div>
           <button className='paymentBtn'>Proceed to Payment</button>
